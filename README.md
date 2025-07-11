@@ -2,6 +2,7 @@
 
 This is the Demo project for [react-horizontal-timeline](https://github.com/programmer4web/react-horizontal-timeline.git)
 
+[Documentation](https://evaficy.com/advanced-horizontal-timeline-component-documentation)
 
 # Getting Started with Create React App
 
