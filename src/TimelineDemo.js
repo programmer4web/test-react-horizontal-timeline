@@ -1,4 +1,4 @@
-import HorizontalTimeline from './HorizontalTimeline';
+import { HorizontalTimeline } from '@evaficy/react-horizontal-timeline';
 
 const TimelineDemo = () => {
   const sampleEvents = [
